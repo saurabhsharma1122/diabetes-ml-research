@@ -29,12 +29,12 @@ The paper is a full IEEE-style research paper covering:
 
 ## Formats Available
 
-Two versions of the paper are provided:
+Two versions of the paper are provided — click the filename to open:
 
 | File | Format | Description |
 |---|---|---|
-| `Diabetes_ML_Research_Paper.docx` | Standard single-column | Traditional academic format with figures |
-| `Diabetes_ML_Paper_IEEE_TwoColumn.docx` | IEEE two-column | Publication-ready format |
+| [Diabetes_ML_Research_Paper.docx](Diabetes_ML_Research_Paper.docx) | Standard single-column | Traditional academic format with figures |
+| [Diabetes_ML_Paper_IEEE_TwoColumn.docx](Diabetes_ML_Paper_IEEE_TwoColumn.docx) | IEEE two-column | Publication-ready format |
 
 ---
 
