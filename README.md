@@ -77,6 +77,8 @@ diabetes-ml-research/
 │
 ├── data/
 │   ├── README.md                 # Instructions to download the dataset
+│   ├── Diabetes_ML_Paper_IEEE_TwoColumn.docx       
+│   ├── Diabetes_ML_Research_Paper.docx                
 │   └── diabetes_cleaned.csv      # Preprocessed dataset (add manually — see data/README.md)
 │
 ├── paper/
