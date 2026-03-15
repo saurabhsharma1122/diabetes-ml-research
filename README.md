@@ -224,8 +224,6 @@ See [`paper/README.md`](paper/README.md) for details.
 ## 👤 Author
 
 **Saurabh Sharma**
-Department of Computer Science & Engineering
-[Institution Name]
 
 ---
 
